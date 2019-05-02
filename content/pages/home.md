@@ -5,15 +5,7 @@ template: home
 
 # UMONS Research Institute for Information Technology and Computer Science
 
-INFORTECH focuses its research on information technology and computer science, and more specifically on technologies for detecting, formatting, transmitting, storing, analysing, and using data and signals, regardless of its volume or mode.
-
-The 2000s saw the development of ICT, combining computing, internet and telecommunications.
-
-In addition, major advances have been achieved in microelectronics and disciplines related to information and signal processing, and more fundamental research has been conducted on software systems, information systems and communication systems.
-
-The INFORTECH Institute works in the domains of computer science, engineering science and social sciences (sociology and psychology). The collaborations created as a result of this interdisciplinary research have led to the presence of a wide range of equipment and skills within the Institute. This has thus enabled INFORTECH to promote and carry out research activities in the fields of information technology and computer science, as well as in industrial applications.
-
-INFORTECH collaborates closely with research centres in the field of information technology, namely MULTITEL and CETIC, which are officially recognised by the Région wallonne (Belgian regional Government).
+The INFORTECH Institute carries out fundamendal and applied research in computer science, information and communication technology, with a focus on the Internet of Things, machine Learning, artificial intelligence, and data science technologies for detecting, processing, transmitting, storing, analysing, and manipulating data and signals in all possible forms. INFORTECH consists of members from different Faculties and scientific disciplines, including but not limited to physical sciences, computer science, applied engineering and social sciences. The collaborations enabled by this interdisciplinary research have led to the presence of a wide range of equipment and a diversity of skills within the Institute. In the field of information technology, INFORTECH collaborates closely with the MULTITEL and CETIC, two research centres officially recognised by the Région wallonne (Belgian regional Government).
 
 
 ## Latest activities
