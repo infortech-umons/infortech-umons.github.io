@@ -11,4 +11,4 @@ deploy:
   local_dir: output/
   target_branch: master
   on:
-branch: sources
+    branch: sources
