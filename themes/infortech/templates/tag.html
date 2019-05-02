@@ -1,11 +1,16 @@
 {% extends "_base.html" %}
 
-{% block pagetitle %}# {{ tag|capitalize }}{% endblock %}
+{% block pagetitle %}Tag {{ tag }}{% endblock %}
 
 {% block body %}
 
 
-<h1>#{{ tag|capitalize }}</h1>
+<h1>Tag #{{ tag }}</h1>
+
+All tags: {% for title, link in tags %}
+<a href="{{ SITEURL }}/{{link}}">{{ title }}</a>{% if not loop.last %}, {% endif %}
+{% endfor %}
+<hr/>
 
 {% for article in articles_page.object_list %}
     {% include "article_inlist.html" %}
