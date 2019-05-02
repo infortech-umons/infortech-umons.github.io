@@ -24,9 +24,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ('Infortech Website', 'https://web.umons.ac.be/infortech/fr/'),
+    ('Infortech Website', 'https://web.umons.ac.be/infortech/'),
     ('University of Mons', 'https://www.umons.ac.be/'),
-    ('Sources', 'https://github.com/infortech-umons/infortech.github.io'),
+    ('Sources', 'https://github.com/infortech-umons/infortech-umons.github.io'),
 )
 
 # Social widget
