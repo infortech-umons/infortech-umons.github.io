@@ -1,5 +1,7 @@
 # infortech.github.io
 
+[![Build Status](https://travis-ci.org/infortech/infortech.github.io.svg?branch=sources)](https://travis-ci.org/infortech/infortech.github.io)
+
 Ce site est conçu avec [Pelican](https://docs.getpelican.com/en/stable/index.html), un générateur de contenu static en Python. 
 Dans les grandes lignes, Pelican récupère le contenu du dossier `content` et l'injecte dans les templates du dossier `templates`. 
 Le contenu est réparti en catégories correspondant aux différents dossiers présents dans ce répertoire (`seminars`, `projects`, `news` et `thesis`). Chaque catégorie est automatiquement accessible via le menu. Le dossier `pages` référence les pages statiques, également affichées directement dans le menu, à moins qu'une page ne soit explicitement marquée comme `hidden` dans ses méta-données. 
