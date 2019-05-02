@@ -1,0 +1,18 @@
+{% extends "_base.html" %}
+
+{% block pagetitle %}# {{ tag|capitalize }}{% endblock %}
+
+{% block body %}
+
+
+<h1>#{{ tag|capitalize }}</h1>
+
+{% for article in articles_page.object_list %}
+    {% include "article_inlist.html" %}
+{% endfor %}
+
+{% if articles_page.has_other_pages() %}
+    {% include "pagination.html" %}
+{% endif %}
+
+{% endblock %}

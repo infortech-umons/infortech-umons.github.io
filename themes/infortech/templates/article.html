@@ -1,0 +1,16 @@
+{% extends "_base.html" %}
+
+{% block pagetitle %}{{ article.title }} — {{ article.category|capitalize }}{% endblock %}
+
+{% block body %}
+<h1>{{ article.title }}</h1>
+<span class="metadata">{{ article.locale_date|capitalize }} by {{ article.authors|join(', ') }}
+{% if article.tags %}
+    <span class="tags">{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% endfor %}</span>
+{% endif %}
+</span>
+
+<p>
+{{ article.content }}
+</p>
+{% endblock %}

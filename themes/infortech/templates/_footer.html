@@ -1,0 +1,37 @@
+<div class="clear-fix"></div>
+<footer>
+  <div class="container-fluid text-muted">
+  	<div class="row">
+      <div class="col-md-3">
+        <p>
+          <img style="height: 2em;" src="{{ SITE_URL }}/static/assets/logo-umons.svg">
+        </p>
+        <p>
+          Place du Parc, 20<br/>
+          7000 Mons<br/>
+          Belgium
+        </p>
+      </div>
+      <div class="col-md-6 text-center">
+        <p class="text-center">
+          <strong>{{ SITENAME }}</strong><br/>
+          <span class="text-small">Research Institute for Information technology and Computer science</span>
+        </p>
+        {% for title, link in LINKS %}
+          <a href="{{ link }}">{{ title }}</a><br/>
+        {% endfor %}
+      </div>
+      <div class="col-md-2 col-md-offset-1">
+        <p class="text-center">
+          <strong>Follow us!</strong>
+        </p>
+        <p class="text-center">
+          {% for title, link in SOCIAL %}
+            <a href="{{ link }}"> <i class="fa fa-fw fa-lg fa-{{ title }}"></i></a><br/>
+          {% endfor %}
+        </p>
+      </div>
+      
+  	</div>
+  </div>
+</footer>

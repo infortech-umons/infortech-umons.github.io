@@ -1,0 +1,22 @@
+{% extends "_base.html" %}
+
+{% block pagetitle %}{% if category %}{{ category|capitalize }}{% endif %}{% endblock %}
+
+{% block body %}
+
+{% if category %}
+    <h1>{{ category|capitalize }}</h1>
+{% else %}
+    <h1>{{ SITENAME }}</h1>    
+{% endif %}
+
+
+{% for article in articles_page.object_list %}
+    {% include "article_inlist.html" %}
+{% endfor %}
+
+{% if articles_page.has_other_pages() %}
+    {% include "pagination.html" %}
+{% endif %}
+
+{% endblock %}

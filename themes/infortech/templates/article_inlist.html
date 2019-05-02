@@ -1,0 +1,17 @@
+<h4>{{ article.title }}</h4>
+<span class="metadata">{{ article.locale_date|capitalize }} by {{ article.authors|join(', ') }}
+{% if article.tags %}
+    <span class="tags">{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% endfor %}</span>
+{% endif %}
+</span>
+
+{% if article.summary %}
+<p>
+{{ article.summary }}
+{% if article.summary != article.content %}
+<span class="readmore"><a href="{{ SITEURL }}/{{ article.url }}">read more</a></span> 
+{% endif %}
+</p>
+{% endif %}
+
+<hr/>
