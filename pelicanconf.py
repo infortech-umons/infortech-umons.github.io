@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'inforTech'
+AUTHOR = ''
 SITENAME = 'inforTech'
 SITESUBTITLE = 'University of Mons'
 SITEURL = 'https://infortech.github.io'
@@ -31,7 +31,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ('facebook', '#'),
+    # ('facebook', '#'),
     ('envelope', 'mailto:infortech@umons.ac.be'),
 )
 

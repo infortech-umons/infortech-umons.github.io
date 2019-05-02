@@ -3,7 +3,7 @@ save_as: index.html
 url: index.html
 template: home
 
-## Research Institute for Information technology and Computer science
+# UMONS Research Institute for Information Technology and Computer Science
 
 INFORTECH focuses its research on information technology and computer science, and more specifically on technologies for detecting, formatting, transmitting, storing, analysing, and using data and signals, regardless of its volume or mode.
 

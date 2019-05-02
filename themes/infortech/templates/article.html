@@ -4,9 +4,12 @@
 
 {% block body %}
 <h1>{{ article.title }}</h1>
-<span class="metadata">{{ article.locale_date|capitalize }} by {{ article.authors|join(', ') }}
+
+<span class="metadata">
+    <span class="metadata-authors">{{ article.authors|join(', ') }}</span>
+    <span class="metadata-date">{{ article.locale_date|capitalize }}</span>
 {% if article.tags %}
-    <span class="tags">{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% endfor %}</span>
+    <span class="metadata-tags">{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% endfor %}</span>
 {% endif %}
 </span>
 

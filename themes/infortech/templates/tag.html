@@ -1,14 +1,14 @@
 {% extends "_base.html" %}
 
-{% block pagetitle %}Tag {{ tag }}{% endblock %}
+{% block pagetitle %}Topic: {{ tag }}{% endblock %}
 
 {% block body %}
 
 
-<h1>Tag #{{ tag }}</h1>
+<h1>Topic #{{ tag }}</h1>
 
-All tags: {% for title, link in tags %}
-<a href="{{ SITEURL }}/{{link}}">{{ title }}</a>{% if not loop.last %}, {% endif %}
+All topics: {% for tag, null in tags|sort %}
+<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
 {% endfor %}
 <hr/>
 

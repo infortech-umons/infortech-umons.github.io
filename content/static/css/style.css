@@ -40,8 +40,8 @@ footer {
   background-color: #2854a5;
 }
 
-.navbar-nav a, .navbar-brand, .navbar-toggle  {
-  background-color: rgba(0, 0, 0, 0.2);
+.navbar-nav a, .navbar-toggle  {
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .navbar-nav .active a, .navbar-nav a:hover {
@@ -52,7 +52,6 @@ footer {
 .navbar-brand {
   font-weight: bold;
   font-size: 3em;
-  background-color: rgba(255, 255, 255, 0.5);
   color: black !important;
 }
 
@@ -74,25 +73,35 @@ p {
 }
 
 .metadata {
-  color: #A0A0A0;
-  font-size: 0.85em;
   display: block;
   margin-top: -0.5em;
 }
 
-.tags {
-  display: block;
+.metadata-date {
+  font-size: 0.9em;
+  color: #9A9A9A;
 }
 
-.tags a {
+.metadata-authors {
+  display:block;
+  color: #333333;
+}
+
+.metadata-tags {
+  padding-left: 1em;
+  font-size: 0.9em;
+}
+
+
+.metadata-tags a {
   color: #75a1f1;
 }
 
-.tags a:before { 
+.metadata-tags a:before { 
   content: "#";
 }
 
-.tags a:after {
+.metadata-tags a:after {
   content: " ";
 }
 
