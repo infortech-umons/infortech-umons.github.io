@@ -5,7 +5,7 @@ In 2019, the annual research dissemination event of the UMONS inforTech Research
 
   * Alexandre **Quenon**. *Energy harvesting in nuclear environments - A solution to power WSNs used for monitoring?*
   * Maximilien **Charlier**. *Precise localization using ultra wideband technology*
-  * Antonio **Bueno Martinez** ([B-SENS][http://www.b-sens.be]). *Optical fiber sensors for IoT*
+  * Antonio **Bueno Martinez** (<a href="http://www.b-sens.be">B-SENS</a>). *Optical fiber sensors for IoT*
   * Francois **Roland**. *Fab-IoT-Lab: Technological Expertise, Guidance and Prototyping Skills in a Single Place*
   * **Keynote:** Fernando **Kuipers** (TUDelft). *LoRa’s Jambalaya*
   * Jeremy **Dubrulle**. *Traffic differentiation in Wireless Sensor Networks*
