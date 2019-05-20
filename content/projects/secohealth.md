@@ -1,6 +1,5 @@
 Title: SECOHealth Québec-Wallonie collaborative research project (F.R.S.-FNRS, FRQNT and FRQSC)
 Date: 2017-10-01
-Link: https://secohealth.github.io
 
 *Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems.*
 
