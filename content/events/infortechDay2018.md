@@ -1,4 +1,4 @@
-Title: Internet of Things - InforTech Day 2018
+Title: InforTech Day 2018 - Big Data and Artificial Intelligence
 Date: 2018-05-23
 Tags: AI, data analytics, big data
 

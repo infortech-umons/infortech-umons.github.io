@@ -1,4 +1,4 @@
-Title: Internet of Things - InforTech Day 2019
+Title: InforTech Day 2019 - The Internet of Things
 Date: 2019-05-20
 Tags: IoT
 
