@@ -1,6 +1,5 @@
 Title: SECO-ASSIST Excellence of Science Project (F.R.S.-FNRS and FWO-Vlaanderen)
 Date: 2018-01-01
-Link: https://secoassist.github.io
 
 *Automated Assistance for Developing Software in Ecosystems of the Future.*
 
