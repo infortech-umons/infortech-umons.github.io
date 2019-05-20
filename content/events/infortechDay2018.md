@@ -1,9 +1,11 @@
 Title: Internet of Things - InforTech Day 2018
 Date: 2018-05-23
+Tags: AI, data analytics, big data
 
 In 2018, the annual InforTech scientific dissemination event focused on *Big Data and Artificial Intelligence*. The event was chaired by Prof. Pierre Manneback, director of InforTech UMONS.
 
 Programme:
+
   * Keynote: Alexandru **Tantar**, Luxembourg Institute of Science and Technology. *AI does not exist!*
   * Tom **Mens**, UMONS Software Engineering Lab. *Big Data Analytics of Software Ecosystem Health*
   * Kevin **El Haddad**, UMONS TCTS Lab. *Nonverbal Conversation Expressions Processing for Human-Agent Interactions*
