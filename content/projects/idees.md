@@ -1,6 +1,7 @@
 Title: IDEES (UE+RW/FEDER)
-Date: 2014-01-01 
+Date: 2014-01-01
 Tags: cloud computing, IoT, data analytics, big data
+Author: Pierre Manneback, Jef Wijsen, Bruno Quoitin
 
 *The Internet of Tomorrow to develop business, economy and society.*
 

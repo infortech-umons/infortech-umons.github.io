@@ -1,6 +1,7 @@
 Title: SECO-ASSIST Excellence of Science Project (F.R.S.-FNRS and FWO-Vlaanderen)
 Date: 2018-01-01
 Tags: data analytics, software engineering, software ecosystem, software health
+Author: Tom Mens
 
 *Automated Assistance for Developing Software in Ecosystems of the Future.*
 
