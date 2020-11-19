@@ -1,4 +1,4 @@
-Title: CuDB (R&eacute;gion wallonne)
+Title: CuDB (Région wallonne)
 Date: 2019-02-01
 Tags: database, parallellism, GPU, Green IT
 Author: Michel Bagein
