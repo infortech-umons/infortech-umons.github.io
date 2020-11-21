@@ -1,6 +1,7 @@
 Title: WAL-e-CITIES (European Regional Development Fund / Walloon Region)
 Date: 2014-04-01
 Author: -
+Tags: smart cities, IoT
 
 *[WAL-e-CITIES](https://www.walecities.eu): Make Wallonia a Smart Region*
 
