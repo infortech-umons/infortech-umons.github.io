@@ -1,4 +1,4 @@
-Title: COLORAMAP - ERC Starting Grant
+Title: COLORAMAP - ERC Starting Grant (2016-2021)
 Date: 2016-09-01
 Tags: low-rank matrix approximation, nonnegative matrix factorisation, optimisation
 Author: Nicolas Gillis
