@@ -1,6 +1,6 @@
 # infortech-umons.github.io
 
-[![Build Status](https://travis-ci.org/infortech-umons/infortech-umons.github.io.svg?branch=sources)](https://travis-ci.org/infortech-umons/infortech-umons.github.io)
+[![Build Status](https://travis-ci.com/infortech-umons/infortech-umons.github.io.svg?branch=sources)](https://travis-ci.com/infortech-umons/infortech-umons.github.io)
 
 Ce site est conçu avec [Pelican](https://docs.getpelican.com/en/stable/index.html), un générateur de contenu static en Python. 
 Dans les grandes lignes, Pelican récupère le contenu du dossier `content` et l'injecte dans les templates du dossier `templates`. 
